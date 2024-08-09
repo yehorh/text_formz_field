@@ -1,6 +1,6 @@
 name: text_formz_field
 description: "Integrate Formz with TextField, create bidirectional binding between Formz and TextField."
-version: 0.0.2
+version: 0.0.3
 
 environment:
   sdk: '>=3.2.2 <4.0.0'
@@ -9,11 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  formz: ^0.6.1
+  formz: ^0.7.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^4.0.0
 
 flutter:
